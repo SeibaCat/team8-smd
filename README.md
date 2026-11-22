@@ -74,4 +74,4 @@ Income tax (IRPF), simplified: one national scale, no regions or personal allowa
 
 ## Project board
 
-Tasks are GitHub issues on the [Team 8 board](https://github.com/users/SeibaCat/projects/1), one issue per module, each assigned to its owner.
+Tasks are GitHub issues on the [Team 8 board](https://github.com/users/SeibaCat/projects/1), one issue per module with each being assigned to its owner.
